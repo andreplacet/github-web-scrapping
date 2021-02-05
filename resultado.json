@@ -1,0 +1,360 @@
+{
+    "projeto": "codingscode/Imersao-React-Alura-2",
+    "diretorios": [
+        {
+            "diretorio": "aluraquiz",
+            "diretorios": [
+                {
+                    "diretorio": "pages",
+                    "diretorios": [
+                        {
+                            "diretorio": "api",
+                            "diretorios": [],
+                            "arquivos": [
+                                {
+                                    "file": {
+                                        "extension": "db.js",
+                                        "info": {
+                                            "linhas": 16,
+                                            "kbytes": 431.0
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "diretorio": "quiz",
+                            "diretorios": [],
+                            "arquivos": [
+                                {
+                                    "file": {
+                                        "extension": "[id].js",
+                                        "info": {
+                                            "linhas": 49,
+                                            "kbytes": 1.27
+                                        }
+                                    }
+                                },
+                                {
+                                    "file": {
+                                        "extension": "index.js",
+                                        "info": {
+                                            "linhas": 163,
+                                            "kbytes": 6.04
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ],
+                    "arquivos": [
+                        {
+                            "file": {
+                                "extension": "_app.js",
+                                "info": {
+                                    "linhas": 46,
+                                    "kbytes": 1.1
+                                }
+                            }
+                        },
+                        {
+                            "file": {
+                                "extension": "_document.js",
+                                "info": {
+                                    "linhas": 30,
+                                    "kbytes": 729.0
+                                }
+                            }
+                        },
+                        {
+                            "file": {
+                                "extension": "index.js",
+                                "info": {
+                                    "linhas": 73,
+                                    "kbytes": 3.4
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "diretorio": "src",
+                    "diretorios": [
+                        {
+                            "diretorio": "components",
+                            "diretorios": [
+                                {
+                                    "diretorio": "AlternativesForm",
+                                    "diretorios": [],
+                                    "arquivos": [
+                                        {
+                                            "file": {
+                                                "extension": "index.js",
+                                                "info": {
+                                                    "linhas": 24,
+                                                    "kbytes": 605.0
+                                                }
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "diretorio": "BackLinkArrow",
+                                    "diretorios": [],
+                                    "arquivos": [
+                                        {
+                                            "file": {
+                                                "extension": "index.js",
+                                                "info": {
+                                                    "linhas": 29,
+                                                    "kbytes": 784.0
+                                                }
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "diretorio": "Button",
+                                    "diretorios": [],
+                                    "arquivos": [
+                                        {
+                                            "file": {
+                                                "extension": "index.js",
+                                                "info": {
+                                                    "linhas": 37,
+                                                    "kbytes": 786.0
+                                                }
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "diretorio": "Footer",
+                                    "diretorios": [],
+                                    "arquivos": [
+                                        {
+                                            "file": {
+                                                "extension": "index.js",
+                                                "info": {
+                                                    "linhas": 46,
+                                                    "kbytes": 1.05
+                                                }
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "diretorio": "GitHubCorner",
+                                    "diretorios": [],
+                                    "arquivos": [
+                                        {
+                                            "file": {
+                                                "extension": "index.js",
+                                                "info": {
+                                                    "linhas": 48,
+                                                    "kbytes": 2.09
+                                                }
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "diretorio": "Input",
+                                    "diretorios": [],
+                                    "arquivos": [
+                                        {
+                                            "file": {
+                                                "extension": "index.js",
+                                                "info": {
+                                                    "linhas": 38,
+                                                    "kbytes": 909.0
+                                                }
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "diretorio": "Link",
+                                    "diretorios": [],
+                                    "arquivos": [
+                                        {
+                                            "file": {
+                                                "extension": "index.js",
+                                                "info": {
+                                                    "linhas": 13,
+                                                    "kbytes": 243.0
+                                                }
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "diretorio": "QuizBackground",
+                                    "diretorios": [],
+                                    "arquivos": [
+                                        {
+                                            "file": {
+                                                "extension": "index.js",
+                                                "info": {
+                                                    "linhas": 36,
+                                                    "kbytes": 993.0
+                                                }
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "diretorio": "QuizContainer",
+                                    "diretorios": [],
+                                    "arquivos": [
+                                        {
+                                            "file": {
+                                                "extension": "index.js",
+                                                "info": {
+                                                    "linhas": 14,
+                                                    "kbytes": 272.0
+                                                }
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "diretorio": "QuizLogo",
+                                    "diretorios": [],
+                                    "arquivos": [
+                                        {
+                                            "file": {
+                                                "extension": "index.js",
+                                                "info": {
+                                                    "linhas": 44,
+                                                    "kbytes": 37.0
+                                                }
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "diretorio": "Widget",
+                                    "diretorios": [],
+                                    "arquivos": [
+                                        {
+                                            "file": {
+                                                "extension": "index.js",
+                                                "info": {
+                                                    "linhas": 68,
+                                                    "kbytes": 1.33
+                                                }
+                                            }
+                                        }
+                                    ]
+                                }
+                            ],
+                            "arquivos": []
+                        },
+                        {
+                            "diretorio": "Quiz",
+                            "diretorios": [],
+                            "arquivos": [
+                                {
+                                    "file": {
+                                        "extension": "index.js",
+                                        "info": {
+                                            "linhas": 164,
+                                            "kbytes": 6.1
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ],
+                    "arquivos": []
+                }
+            ],
+            "arquivos": [
+                {
+                    "file": {
+                        "extension": ".babelrc",
+                        "info": {
+                            "linhas": 4,
+                            "kbytes": 87.0
+                        }
+                    }
+                },
+                {
+                    "file": {
+                        "extension": ".eslintrc.js",
+                        "info": {
+                            "linhas": 23,
+                            "kbytes": 414.0
+                        }
+                    }
+                },
+                {
+                    "file": {
+                        "extension": "README.md",
+                        "info": {
+                            "linhas": 78,
+                            "kbytes": 3.23
+                        }
+                    }
+                },
+                {
+                    "file": {
+                        "extension": "db.json",
+                        "info": {
+                            "linhas": 69,
+                            "kbytes": 2.38
+                        }
+                    }
+                },
+                {
+                    "file": {
+                        "extension": "package-lock.json",
+                        "info": {
+                            "linhas": 7199,
+                            "kbytes": 281.0
+                        }
+                    }
+                },
+                {
+                    "file": {
+                        "extension": "package.json",
+                        "info": {
+                            "linhas": 30,
+                            "kbytes": 752.0
+                        }
+                    }
+                }
+            ]
+        }
+    ],
+    "arquivos": [
+        {
+            "file": {
+                "extension": ".gitignore",
+                "info": {
+                    "linhas": 46,
+                    "kbytes": 433.0
+                }
+            }
+        },
+        {
+            "file": {
+                "extension": "README.md",
+                "info": {
+                    "linhas": 6,
+                    "kbytes": 83.0
+                }
+            }
+        },
+        {
+            "file": {
+                "extension": "anotacoes.txt",
+                "info": {
+                    "linhas": 416,
+                    "kbytes": 11.1
+                }
+            }
+        }
+    ]
+}

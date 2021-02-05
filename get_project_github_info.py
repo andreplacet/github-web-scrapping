@@ -3,7 +3,7 @@ from gitutils.github_scraping import GithubScraping
 project = GithubScraping('repositores.txt')
 path = project.get_project_paths()
 
-for item in path:
+if __name__ == '__main__':
     print('Buscando informações do projeto')
     repositores_info = project.get_all_info(path)
     print('done!')

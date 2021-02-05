@@ -226,7 +226,7 @@ class GithubScraping:
                 else:
                     file = self.get_file_info(url)
                     object_git['arquivos'].append(file)
-        info_lista.append(object_git)
+            info_lista.append(object_git)
 
         return info_lista
 
@@ -357,9 +357,13 @@ class GithubScraping:
 
         for item in statistic_list:
             for k in item.values():
-                porcentagem_kbytes = (k['kbytes'] / total_kbytes) * 100
-                porcentagem_linhas = (k['linhas'] / total_linhas) * 100
-                k['total_bytes'] = porcentagem_kbytes
-                k['total_linhas'] = porcentagem_linhas
+                if k['kbytes'] == 0:
+                    k['total_bytes'] = 0
+                    k['total_linhas'] = 0
+                else:
+                    porcentagem_kbytes = (k['kbytes'] / total_kbytes) * 100
+                    porcentagem_linhas = (k['linhas'] / total_linhas) * 100
+                    k['total_bytes'] = porcentagem_kbytes
+                    k['total_linhas'] = porcentagem_linhas
 
         return statistic_list
